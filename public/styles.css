@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+nav{
+    background-color: black;
+    font-size: 20px;
+    height: 50px;
+    align-items: center;
+    
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    padding-top: 15px;
+}
+
+nav ul li{
+    text-decoration: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
